@@ -11,7 +11,7 @@
         * alt listenin alt listesi
 -------------------------------------
 
-[tıklayarak kendi patikana başlayabilirsin](www.app.patika.dev)
+[tıklayarak kendi patikana başlayabilirsin](http://app.patika.dev)
 
 ```python
 print("hello world")
