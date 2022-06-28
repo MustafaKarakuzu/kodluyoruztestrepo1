@@ -24,7 +24,7 @@ console.log("kodluyoruz")
 Bu benim ilk repom, test amaçlı olmakla birlikte kodluyoruz ekibinin emekleri vesilesiyle gerçekleşmiştir.
 
 ## Installation
-https://github.com/MustafaKarakuzu/kodluyoruzilkrepotest.git
+https://github.com/MustafaKarakuzu/kodluyoruztestrepo1.git
 
 -------------------------------------
 ![screenshoot](screenshot.png)
